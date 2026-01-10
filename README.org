@@ -1,0 +1,7 @@
+#+title: Solkattu
+土 10  1 2026 18:54
+
+Develop a system for defining and playing rhythmic patterns inspired by the indian rhythmic Solfege discipline /Solkattu/.
+
+
+
