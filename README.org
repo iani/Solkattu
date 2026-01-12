@@ -1,7 +1,11 @@
 #+title: Solkattu
 土 10  1 2026 18:54
 
-Develop a system for defining and playing rhythmic patterns inspired by the indian rhythmic Solfege discipline /Solkattu/.
+A series of studies inspired by the indian rhythmic Solfege discipline /Solkattu/.
+
+These are studies in counting beats, that explore different approaches in a bottom up manner, hoping that some of these approaches may prove useful in building systems.
+
+
 
 
 

@@ -1,0 +1,6 @@
+#+title: 01Sounds
+
+Playing beats in synths.
+Some of these may becoe SynthDefs.
+
+
