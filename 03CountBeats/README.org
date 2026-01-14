@@ -1,0 +1,14 @@
+#+title: CountBeats
+
+A class for counting beats/
+Count n beats starting at 0.
+At each beat, it issues =this.changed(\beat, count)=. =count= is the number of beats elapsed since the start of counting.
+
+Start new CountBeats instances at any beat, with different tempo per instance.
+
+A new CountBeats instance =<b>= can start at the next beat of another CountBeats instance =<a>=.  To do this, =<b>= watches the =changed(\beat)= messages issued by =<a>=.
+
+
+
+
+
